@@ -4,6 +4,8 @@
 bin
 obj
 
+# VS Code
+.vscode
 
 # Logs
 logs
